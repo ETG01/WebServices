@@ -1,2 +1,0 @@
-# WebServices
- Here are assingments that i have completed in web services, the course focuses on the subjects associated with web services. It will embark on subjects such as: Web services (WS) in general, HTTP, RESTful WS, RPC WS, .NET Core Web API, Authentication, Authorization, GraphQL and more. The course will provide you with both knowledge and skills to start diving in to the world of web services.
